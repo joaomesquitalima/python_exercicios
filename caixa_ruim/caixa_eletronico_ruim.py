@@ -1,4 +1,4 @@
-#eu com certeza sou muito burro aqui
+#eu com certeza sou muito burro aqui mas e a vida
 #notas
 um = 1
 cinco = 5
